@@ -17,7 +17,7 @@ app.post('/api/card-data', (req, res) => {
         type: 'iframe',
         width: 600,
         height: 400,
-        url: `https://mi-front.netlify.app/?objectId=${objectId}` // tu app React
+        url: `https://mellow-paletas-230e62.netlify.app/?objectId=${objectId}` // tu app React
       }
     ]
   });
